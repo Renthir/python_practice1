@@ -1,0 +1,4 @@
+title, author, year, rating, pages
+lemon, me, 2002, 4.3, 123
+The Hunger Games, Suzanne Collins, 2008, 4.32, 374
+Metro 2033, Dmitry Glukhovsky, 2002, 4.4, 458
